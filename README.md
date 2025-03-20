@@ -1,7 +1,7 @@
 # Configure-Active-Directory Domain Controler
 The AD DS role has been installed in your Windows Server 2019, 
 
-# Now you can Configure-Active-Directory Domain Controler. 
+# Configure-Active-Directory Domain Controler. 
 
 Let’s go back to Server Manager and start the configuration.
 
