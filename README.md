@@ -1,7 +1,7 @@
-# Configure-Active-Directory Domain Controler
+# Configure-Active-Directory Domain Controller
 The AD DS role has been installed in your Windows Server 2019, 
 
-# Configure-Active-Directory Domain Controler. 
+# Configure-Active-Directory Domain Controller. 
 
 Let’s go back to Server Manager and start the configuration.
 
@@ -32,7 +32,7 @@ Click Next again on the Paths screen to accept the default database, log files, 
 
 **Now click Next on the Review Options screen.**
 
-And click Install to configure AD on the server. The server will automatically reboot to complete the install process.
+Click Install to configure AD on the server. The server will automatically reboot to complete the installation process.
 ![ad-12](https://github.com/user-attachments/assets/67a925ab-51df-4f06-81cd-c42c7e287be2)
 
 **Now you are all done**
