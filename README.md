@@ -1,5 +1,9 @@
 # Configure-Active-Directory Domain Controler
-Now that the AD DS role is installed in Windows Server 2019, you can configure your first AD domain controller. Let’s go back to Server Manager and start the configuration.
+The AD DS role has been installed in your Windows Server 2019, 
+
+# Now you can Configure-Active-Directory Domain Controler. 
+
+Let’s go back to Server Manager and start the configuration.
 
 1- **Back in Server Manager**
 
@@ -9,7 +13,7 @@ You should see a yellow exclamation mark by the notifications flag in the top-ri
 
 **In the Active Directory Domain Services Configuration Wizard dialog**
 
-check Add a new forest under Select the deployment operation and type the Fully Qualified Domain Name (FQDN) for your new AD forest. 
+Check Add a new forest under Select the deployment operation and type the Fully Qualified Domain Name (FQDN) for your new AD forest. 
 I’m going to use Testlab.com for my AD domain name. 
 
 2- **Click Next to continue**
